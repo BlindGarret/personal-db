@@ -49,5 +49,3 @@ Requires a functional K8s cluster with admin access.
 ## Contact
 
 Project Link: [https://github.com/BlindGarret/personal-db](https://github.com/BlindGarret/personal-db)
-
-Copyright [2021] [Real Technology Solutions LLC]
